@@ -1,8 +1,12 @@
 # ClassTap
 
+一个更好用的简洁便签式在线记录作业的网站
+
 [English](/README_En.md) [日语](/README_Ja.md)
 
-一个更好用的简洁便签式在线记录作业的网站
+## 在线体验
+
+使用[ct.shunx.top](https://ct.shunx.top/)在线体验
 
 ## 有什么功能?
 
