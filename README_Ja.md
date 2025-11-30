@@ -1,7 +1,7 @@
 # ClassTap  
 **宿題をサッと記録できる、シンプルで使いやすい付箋風ウェブアプリ**
 
-## ✨ 主な機能  
+## 主な機能  
 1. カードを自由に追加可能  
 2. 付箋風デザインのカード  
 3. 教科ごとの宿題カード（例：「数学」「英語」）  
@@ -9,18 +9,18 @@
 5. Android風のドラッグ＆ドロップでカードを並べ替え（[SortableJS](https://sortablejs.github.io/Sortable/) 利用）  
 6. 入力内容に応じて自動で高さを拡大  
 
-## 🛠️ 技術スタック  
+## 技術スタック  
 HTML / CSS / JavaScript のみ — **バックエンド不要**、軽量・オフライン対応。
 
-## 🌍 多言語対応  
+## 多言語対応  
 現在は簡体字中国語（`lang/zh-CN.js`）のみ対応。  
 **日本語を含むほかの言語の PR、大歓迎です！**
 
-## 📦 ローカル実行方法  
+## ローカル実行方法  
 リポジトリをクローン後、`index.html` をブラウザで開くだけ。  
 開発時は [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) などのローカルサーバー利用を推奨（ただし、ネットワーク通信は一切不要です）。
 
-## 🔐 プライバシー・データ保存  
+## プライバシー・データ保存  
 すべてのデータはブラウザの `localStorage` に保存され、再読み込み後も保持されます。  
 ✅ サーバーに一切送信されません  
 ✅ トラッキングなし  
@@ -34,17 +34,17 @@ PR はいつでも大歓迎！
 3. 変更内容を明記の上、PR を送信  
 
 Issue を立てる前に、ぜひご一読ください：  
-📖 [賢い質問の仕方（日本語訳推奨）](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way/blob/main/README-zh_CN.md)  
+[賢い質問の仕方（日本語訳推奨）](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way/blob/main/README-zh_CN.md)  
 （※質問の前に、自分で調べ・試行錯誤したことを伝えることが、回答を得る近道です 🦊）
 
 ## ☕ プロジェクトを応援する  
 ClassTap が「宿題管理の助けになった」と思っていただけたら、  
 小狐（こぎつね）に [コーヒーをご馳走ください☕](https://afdian.com/a/shunian)  
 支援金の使い道：  
-- AI のチューニング 🦊🤖  
+- AI のチューニング
 - 夜更かし中の軽食  
 - オープンソース活動の継続支援  
 
-## 📜 ライセンス  
+## ライセンス  
 本ソフトウェアは**無保証**のフリーソフトウェアです。  
 **AGPLv3.0** ライセンスにて公開。
