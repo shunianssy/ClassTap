@@ -1,6 +1,6 @@
 # ClassTap
 
-[English](/README_En.md)
+[English](/README_En.md) [日语](/README_Ja.md)
 
 一个更好用的简洁便签式在线记录作业的网站
 
